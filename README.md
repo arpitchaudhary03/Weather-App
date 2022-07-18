@@ -11,7 +11,7 @@ Also user can check the weather forecast for 7 days.
 Live Link : https://weather-app-arpit.netlify.app/
 
 
-Tech Stack
-HTML
-CSS
+Tech Stack:
+HTML,
+CSS,
 JavaScript
